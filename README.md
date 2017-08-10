@@ -1,11 +1,10 @@
 # Investigate Titanic Dataset :mag:
 
-![alt](http://www.allclip.net/wp-content/uploads/2015/04/Titanic-Sinking.jpg)
-
 * In this project, I have analyzed :bar_chart: Titanic dataset and communicated my findings about it, which helps exploring few answer about the calamity.
 * This repostiory contains **Python code**, **report** and **data set** in csv format
 
 ### _[My Report](https://ashish25.github.io/P2-InvestigateTitanic/)_ :link:
+![Titanic](http://static.bbc.co.uk/history/img/ic/640/images/resources/histories/titanic.jpg)
 
 ### Accessing the Analysis :key:
 
